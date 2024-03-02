@@ -1,5 +1,5 @@
 # Hotel_Booking_DB-Big-Data-Analysis-Report
-Polytechnic of Milan - Prof. Marco Brambilla - System and Methods for Big and Unstructured Data
+Politecnico di Milano - Prof. Marco Brambilla - System and Methods for Big and Unstructured Data
 <br><br>
 Final Grade: 30 Cum Laude / 30
 <br><br>
